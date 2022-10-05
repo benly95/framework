@@ -1,0 +1,18 @@
+{
+    "name": "the_boss/framework",
+    "description": "Création d'un framework fait maison à but d'apprentissage de la programmation orientée objet en php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "TheBoss\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benny",
+            "email": "bmclyes1995@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
