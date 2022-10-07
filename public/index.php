@@ -1,7 +1,7 @@
 <?php
 
 use App\Kernel;
-
+     
     /**
      * ----------------------------------------------------
      * Bienvenue dans notre framework fait maison
@@ -18,6 +18,9 @@ use App\Kernel;
 
     // Chargement du fichier de configuration
       require dirname(__DIR__) . "/config/bootstrap.php";
+
+
+      
 
       //  dd($container);
 
